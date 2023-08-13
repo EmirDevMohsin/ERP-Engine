@@ -1,20 +1,20 @@
 [
   {
-    employee_no: 1,
-    employee_name: "Syed Mohsin Pasha",
-    shift_start: "09:00",
-    shift_end: "18:00",
+    "employee_no": 1,
+    "employee_name": "Syed Mohsin Pasha",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
   },
   {
-    employee_no: 2,
-    employee_name: "Talha Syed ",
-    shift_start: "12:00",
-    shift_end: "21:00",
+    "employee_no": 2,
+    "employee_name": "Talha Syed ",
+    "shift_start": "12:00",
+    "shift_end": "21:00"
   },
   {
-    employee_no: 3,
-    employee_name: "Syed Najib",
-    shift_start: "15:00",
-    shift_end: "00:00",
-  },
-];
+    "employee_no": 3,
+    "employee_name": "Syed Najib",
+    "shift_start": "15:00",
+    "shift_end": "00:00"
+  }
+]
